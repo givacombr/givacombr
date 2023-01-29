@@ -1,5 +1,9 @@
 ### Olá eu sou Givaldo 👋
 
+<a href="https://www.github.com/givacombr" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logocolor=write)](https://youtube.com/channel/UCR6xIzAv8PZrlFF5UisS95Q)
 [![Instagram](https://img.shields.io/badge/Instagram-E44005F?style=for-the-badge&logo=instagram&logocolor=write)](https://instagram.com/drgivas)
 
