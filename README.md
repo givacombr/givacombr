@@ -1,9 +1,10 @@
-### Olá eu sou Givaldo 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Mundo!;Me+chamo+Givaldo+Ferreira;Tenho+51+anos;Resido+em+Tocantis,+Brasil;Cursando+Analise+e+Desenvolvimento+de+Sistemas;Pelo+SENAI!+:%29)](https://git.io/typing-svg)
+
 
 <a href="https://www.github.com/givacombr" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
-
-
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logocolor=write)](https://youtube.com/channel/UCR6xIzAv8PZrlFF5UisS95Q)
 [![Instagram](https://img.shields.io/badge/Instagram-E44005F?style=for-the-badge&logo=instagram&logocolor=write)](https://instagram.com/drgivas)
 
@@ -17,4 +18,8 @@ src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="center" alt="Giv@s-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+<img align="center" alt="Giv@s-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div><br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
