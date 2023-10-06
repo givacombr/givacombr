@@ -39,8 +39,8 @@ src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
 ![erisvaldo](https://github.com/implementacaoteste.png)<br /><sub><b>Erisvaldo - Teacher & Dev</b></sub>
-![pedroaquino](https://github.com/PedroPAquino/PedroPAquino.png)<br /><sub><b>Erisvaldo - Teacher & Dev</b></sub>
-![francisco]<sub><b>Francisco - Teacher & Dev</b></sub>
+![pedroaquino](https://github.com/PedroPAquino/PedroPAquino.png)<br /><sub><b>Pedro Aquino - Teacher</b></sub>
+![francisco]<sub><b>Francisco - Teacher</b></sub>
 |:-----------------------------:|:-----------------------------:|:-----------------------------:|
  <!-- ALL-CONTRIBUTORS-LIST:END -->
 
