@@ -35,10 +35,10 @@ src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the
  |:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
 
  ## Professores
-
 ![erisvaldo](https://github.com/implementacaoteste.png)<br /><sub><b>Erisvaldo - Teacher & Dev</b></sub>
 ![pedroaquino](https://github.com/PedroPAquino/PedroPAquino.png)<br /><sub><b>Pedro Aquino - Teacher</b></sub>
 ![francisco]<sub><b>Francisco - Teacher</b></sub>
 |:-----------------------------:|:-----------------------------:|:-----------------------------:|
- <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
