@@ -29,7 +29,7 @@ src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the
 
  ## Professores
 
-![erisvaldo](https://github.com/implementacaoteste.png)<br /><sub><b>Erisvaldo - Teacher & Dev</b></sub>
+
 |:-----------------------------:|
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
