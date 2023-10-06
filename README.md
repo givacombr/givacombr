@@ -34,5 +34,14 @@ src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the
 ![leandro](https://github.com/Leandrogsousa.png)<br /><sub><b>Leandro - Dev</b></sub> | ![luis](https://github.com/Luisitu1.png)<br /><sub><b>Luis - Dev</b></sub> | ![cristiano](https://github.com/CristianoJuniorr.png)<br /><sub><b>Cristiano - Dev</b></sub><br /> | ![antonio](https://github.com/arbarbosa1979.png)<br /><sub><b>Antônio - Dev</b></sub> | ![claudio](https://github.com/kllaws.png)<br /><sub><b>Cláudio - Dev</b></sub> | ![lucas](https://github.com/Lucaswasd.png)<br /><sub><b>Lucas - Dev</b></sub> 
  |:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
 
+## Professores
+- Rafael;
+- Genivon;
+- Erisvaldo;
+- Pedro Aquino;
+- Francisco;
+- Andrei
+  <b> Os meus agradecimentos pela paciência, compreensão e dedicação no ensino. Sou grato pela vida dos senhores, que essa virtude nunca acabe, seja sempre o Senhor Jesus Cristo em vossas vida.</b>
+
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
