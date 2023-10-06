@@ -27,9 +27,4 @@ src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the
 ![dimas](https://github.com/DimasMota.png)<br /><sub><b>Dimas - Dev</b></sub> |![givaldo](https://github.com/givacombr.png)<br /><sub><b>Givaldo - Dev</b></sub> |![milena](https://github.com/milenacalacio.png)<br /><sub><b>Milena - Dev</b></sub> |![railson](https://github.com/railsonsousa10.png)<br /><sub><b>Railson - Dev</b></sub> |![jorge](https://github.com/JORGEHRB7.png)<br /><sub><b>Jorge - Dev</b></sub> | ![bruno](https://github.com/Brunopires1999.png)<br /><sub><b>Bruno - Dev</b></sub> | ![nalbert](https://github.com/Nalbertholi.png)<br /><sub><b>Nalbert - Dev</b></sub> | ![antonio](https://github.com/arbarbosa1979.png)<br /><sub><b>Antônio - Dev</b></sub> | ![claudio](https://github.com/kllaws.png)<br /><sub><b>Cláudio - Dev</b></sub> | ![lucas](https://github.com/Lucaswasd.png)<br /><sub><b>Lucas - Dev</b></sub>
  |:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
 
- ## Professores
-
-
-|:-----------------------------:|
-
 <!-- ALL-CONTRIBUTORS-LIST:END -->
