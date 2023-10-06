@@ -40,7 +40,7 @@ src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the
 - Erisvaldo;
 - Pedro Aquino;
 - Francisco;
-- Andrei
+- Andrei<br />
   <b> Os meus agradecimentos pela paciência, compreensão e dedicação no ensino. Sou grato pela vida dos senhores, que essa virtude nunca acabe, seja sempre o Senhor Jesus Cristo em vossas vida.</b>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
