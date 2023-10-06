@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Mundo!;Me+chamo+Givaldo+Ferreira;Tenho+51+anos;Resido+em+Tocantis,+Brasil;Cursando+Desenvolvimento+de+Sistemas;Pelo+SENAI!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0591E8&size=35&center=true&vCenter=true&width=1000&lines=Ola,+Mundo!;Me+chamo+Givaldo+Ferreira;Tenho+52+anos;Resido+em+Tocantis,+Brasil;Cursando+Desenvolvimento+de+Sistemas;Pelo+SENAI!+:%29)](https://git.io/typing-svg)
 
 
 <a href="https://www.github.com/givacombr" target="_blank" rel="noreferrer"><img
