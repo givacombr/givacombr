@@ -28,3 +28,9 @@ src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the
  |:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+![leandro](https://github.com/Leandrogsousa.png)<br /><sub><b>Leandro - Dev</b></sub> | ![luis](https://github.com/Luisitu1.png)<br /><sub><b>Luis - Dev</b></sub>
+ |:-----------------------------:|:-----------------------------:|
+ <!-- ALL-CONTRIBUTORS-LIST:END -->
