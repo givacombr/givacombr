@@ -34,3 +34,13 @@ src="https://img.shields.io/github/followers/givacombr?logo=github&style=for-the
 ![leandro](https://github.com/Leandrogsousa.png)<br /><sub><b>Leandro - Dev</b></sub> | ![luis](https://github.com/Luisitu1.png)<br /><sub><b>Luis - Dev</b></sub> | ![cristiano](https://github.com/CristianoJuniorr.png)<br /><sub><b>Cristiano - Dev</b></sub><br /> | ![antonio](https://github.com/arbarbosa1979.png)<br /><sub><b>Antônio - Dev</b></sub> | ![claudio](https://github.com/kllaws.png)<br /><sub><b>Cláudio - Dev</b></sub> | ![lucas](https://github.com/Lucaswasd.png)<br /><sub><b>Lucas - Dev</b></sub> 
  |:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|:-----------------------------:|
  <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+ ## Professores
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+![erisvaldo](https://github.com/implementacaoteste.png)<br /><sub><b>Erisvaldo - Teacher & Dev</b></sub>
+![pedroaquino](https://github.com/PedroPAquino/PedroPAquino.png)<br /><sub><b>Erisvaldo - Teacher & Dev</b></sub>
+![francisco]<sub><b>Francisco - Teacher & Dev</b></sub>
+|:-----------------------------:|:-----------------------------:|:-----------------------------:|
+ <!-- ALL-CONTRIBUTORS-LIST:END -->
+
